@@ -1,6 +1,6 @@
 # Prework Study Guide Webpage
 
-## I made this website as an introduction to HTML, CSS, and JS
+## Description
 
 - [Installation](#installation)
 - [Usage](#usage)
